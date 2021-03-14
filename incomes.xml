@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incomes>
+<Income>
+<userId>1</userId>
+<date>2021-03-14</date>
+<item>1</item>
+<amount>400</amount>
+</Income>
+<Income>
+<userId>1</userId>
+<date>2021-03-14</date>
+<item>2</item>
+<amount>777</amount>
+</Income>
+<Income>
+<userId>1</userId>
+<date>1990-03-10</date>
+<item>3</item>
+<amount>333</amount>
+</Income>
+<Income>
+<userId>1</userId>
+<date>2021-03-14</date>
+<item>4</item>
+<amount>200</amount>
+</Income>
+</incomes>
